@@ -1,0 +1,87 @@
+{
+  "paths": [
+    {
+      "id": 1,
+      "slug": "federal-program",
+      "name": "Federal Program",
+      "image": "/federal-program.jpg",
+      "description": "With approximately 2.4 million civil service employees and members of the uniformed services poised to retire, they need retirement-planning professionals who understand the complex requirements of their benefits."
+    },
+    {
+      "id": 2,
+      "slug": "learning-lab",
+      "name": "The Learning Labs",
+      "image": "/learning-labs.jpg",
+      "description": "Megastar has successfully harnessed the power of Consumer-Driven Marketing – a proven strategy that focuses on consumers’ needs and concerns instead of focusing on selling them a product."
+    },
+    {
+      "id": 3,
+      "slug": "tax-program",
+      "name": "Tax Program",
+      "image": "/tax-program.jpg",
+      "description": "The business-building strategy behind our proprietary Tax programs are straightforward: when you provide tax preparation services in your community, you grow a loyal client base that comes back to see you – tax season after tax season."
+    },
+    {
+      "id": 4,
+      "slug": "pension-navigators",
+      "name": "Pension Navigators",
+      "image": "/pension-navigators.jpg",
+      "description": "Megastar’s State Retirement Program is engineered to provide you with unprecedented access to three virtually untapped prospect markets: Teachers, Firefighters and Law Enforcement."
+    },
+    {
+      "id": 5,
+      "slug": "branding",
+      "name": "Branding",
+      "image": "/branding.jpg",
+      "description": "It never fails – when we talk to advisors this is the first question they ask. Our answer illuminates the important difference between Megastar and other FMOs."
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "slug": "lead-program",
+      "name": "Lead Program",
+      "image": "",
+      "description": "",
+      "course_id": 1
+    },
+    {
+      "id": 2,
+      "slug": "seminars-program",
+      "name": "Seminars Program",
+      "image": "",
+      "description": "",
+      "course_id": 1
+    },
+    {
+      "id": 3,
+      "slug": "benefits-program",
+      "name": "Benefits Program",
+      "image": "",
+      "description": "",
+      "course_id": 1
+    }
+  ],
+  "lessons": [
+
+  ],
+  "modules": [
+    {
+      "id": 1,
+      "slug": "tsp",
+      "name": "TSP"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "slug": "brian-benham",
+      "name": "Brian Benham"
+    },
+    {
+      "id": 2,
+      "slug": "brad-pate",
+      "name": "Brad Pate"
+    }
+  ]
+}
